@@ -1,5 +1,6 @@
 # DiscoRobot
-Do you want to build a Robot? 
+
+## Do you want to build a Robot? 
 
 This script will allow you to do just that, and show you how to add cool features to your robot such that it can become a dancing robot who can shoot lasers out of his eyes!
 
