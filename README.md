@@ -7,3 +7,6 @@ This script will allow you to do just that, and show you how to add cool feature
 # Tools
 This dancing Robot is built with **HTML**, **CSS**, **JavaScript**, **jQuery**
 (a live example can be found on General Assembly Dash: https://dash.generalassemb.ly)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
