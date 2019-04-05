@@ -7,7 +7,4 @@ This script will allow you to do just that, and show you how to add cool feature
 This dancing Robot is built with **HTML**, **CSS**, **JavaScript**, **jQuery**
 
 ## Resources
-(a live example can be found on General Assembly Dash: https://dash.generalassemb.ly)
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+(a live example can be found on [General Assembly Dash](https://dash.generalassemb.ly)
