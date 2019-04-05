@@ -9,4 +9,5 @@ This dancing Robot is built with **HTML**, **CSS**, **JavaScript**, **jQuery**
 (a live example can be found on General Assembly Dash: https://dash.generalassemb.ly) 
 
 ## emoji
+http://github.com - automatic!
 [Github] (http://github.com)
