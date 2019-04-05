@@ -8,4 +8,4 @@ This script will allow you to do just that, and show you how to add cool feature
 This dancing Robot is built with **HTML**, **CSS**, **JavaScript**, **jQuery**
 (a live example can be found on General Assembly Dash: https://dash.generalassemb.ly)
 
-<img align="right" width="100" height="100" ![stack Overflow](http://lmsotfy.com/so.png)>
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
