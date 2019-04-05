@@ -6,8 +6,4 @@ This script will allow you to do just that, and show you how to add cool feature
 
 # Tools
 This dancing Robot is built with **HTML**, **CSS**, **JavaScript**, **jQuery**
-(a live example can be found on General Assembly Dash: https://dash.generalassemb.ly) 
-
-## emoji
-http://github.com - automatic!
-[Github] (http://github.com)
+(a live example can be found on General Assembly Dash: https://dash.generalassemb.ly)
