@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/cetienn01/DiscoRobot.svg)](http://hits.dwyl.io/cetienn01/DiscoRobot)
+
 # DiscoRobot
 ![](http://ga-dash.s3.amazonaws.com/production/assets/cotbots-screenshot-6e02e04cd005dd481e391124abb479ddd2034d33dd34beb3def0603707c20329.gif)
 ## Do you want to build a Robot? 
